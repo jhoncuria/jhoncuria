@@ -99,15 +99,19 @@
 
 <p align="center">
   <a href="mailto:ejcuri@gmail.com">
-    <img align="center" alt="JhonCuri | Gmail" width="26px" src="https://raw.githubusercontent.com/jhoncuria/jhoncuria/main/assets/Gmail.svg" />
+    <img align="center" alt="ejcuri@gmail.com | Gmail" width="26px" src="https://raw.githubusercontent.com/jhoncuria/jhoncuria/main/assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
+  
   <a href="https://www.linkedin.com/in/edgar-jhon-curi-araujo-a1908159" target="_blank">
     <img align="center" alt="edgar-jhon-curi-araujo-a1908159 | LinkedIn" width="24px" src="https://raw.githubusercontent.com/jhoncuria/jhoncuria/main/assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
+  
   <a href="https://github.com/jhoncuria" target="_blank">
     <img align="center" alt="jhoncuria | GitHub" width="26px" src="https://raw.githubusercontent.com/jhoncuria/jhoncuria/main/assets/github.png" />
   </a> &nbsp;&nbsp;
 </p>
+
+
 <div align="center">
   :heart_eyes: Thanks for visiting my profile! Have a nice day! :wink: <br/>
   &copy; 2023 Jhon Curi
