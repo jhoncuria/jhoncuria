@@ -99,13 +99,13 @@
 
 <p align="center">
   <a href="mailto:ejcuri@gmail.com">
-    <img align="center" alt="JhonCuri | Gmail" width="26px" src="https://github.com/jhoncuria/jhoncuria/blob/master/Assets/Gmail.svg" />
+    <img align="center" alt="JhonCuri | Gmail" width="26px" src="https://raw.githubusercontent.com/jhoncuria/jhoncuria/main/assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/edgar-jhon-curi-araujo-a1908159" target="_blank">
-    <img align="center" alt="edgar-jhon-curi-araujo-a1908159 | LinkedIn" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+    <img align="center" alt="edgar-jhon-curi-araujo-a1908159 | LinkedIn" width="24px" src="https://raw.githubusercontent.com/jhoncuria/jhoncuria/main/assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://github.com/jhoncuria" target="_blank">
-    <img align="center" alt="jhoncuria | GitHub" width="26px" src="https://github.com/jhoncuria/jhoncuria/blob/main/assets/github.png" />
+    <img align="center" alt="jhoncuria | GitHub" width="26px" src="https://raw.githubusercontent.com/jhoncuria/jhoncuria/main/assets/github.png" />
   </a> &nbsp;&nbsp;
 </p>
 <div align="center">
@@ -113,6 +113,7 @@
   &copy; 2023 Jhon Curi
 </div>
 Last Edited on: 26/05/2023
+
 
 
 
