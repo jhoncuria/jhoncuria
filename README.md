@@ -6,7 +6,9 @@
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
+---
+
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About me...
 
 - ![download](https://github.com/jhoncuria/jhoncuria/assets/106255552/e4f9aeb2-f100-4402-b722-fa4fd8a39afb) Background: I have a strong background in chemical engineering, with experience in the mining sector, (safety, environment, concentrator plant, mineral analysis laboratory). 🚀⛏️🌿
 
@@ -24,18 +26,18 @@
 
 - 📫 How to Reach Me: You can connect with me on LinkedIn or send me an email. Let's connect and explore opportunities to make a difference together! 📧🤝🌟
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Skills and some languages and tools
 
-🔹 Programming Languages: Python, SQL
-🔹 Data Science Libraries: Pandas, NumPy, scikit-learn
-🔹 Data Visualization: Matplotlib, Seaborn, Plotly
-🔹 Database Management: MySQL, PostgreSQL
-🔹 Big Data Tools: Hadoop, Spark
-🔹 Machine Learning Techniques: Regression, Classification, Clustering, Neural Networks
-🔹 Version Control: Git, GitHub
-🔹 Statistical Analysis: Hypothesis Testing, ANOVA, Regression Analysis
-🔹 Data Wrangling: Data Cleaning, Data Transformation, Feature Engineering
-🔹 Web Development: HTML, CSS
+- 🔹 Programming Languages: Python, SQL
+- 🔹 Data Science Libraries: Pandas, NumPy, scikit-learn
+- 🔹 Data Visualization: Matplotlib, Seaborn, Plotly
+- 🔹 Database Management: MySQL, PostgreSQL
+- 🔹 Big Data Tools: Hadoop, Spark
+- 🔹 Machine Learning Techniques: Regression, Classification, Clustering, Neural Networks
+- 🔹 Version Control: Git, GitHub
+- 🔹 Statistical Analysis: Hypothesis Testing, ANOVA, Regression Analysis
+- 🔹 Data Wrangling: Data Cleaning, Data Transformation, Feature Engineering
+- 🔹 Web Development: HTML, CSS
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25">
@@ -95,36 +97,24 @@
   <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" height="25">
 </p>
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For more information, please check out or connect me via...
 
-<!--icons and links-->
-
-
-
-<a href="linkedin.com/in/edgar-jhon-curi-araujo-a1908159" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/JhonCuri2" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/jhoncuria" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://discord.gg/UjwKkJsXsf" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+<p align="center">
+  <a href="emailto:ejcuri@gmail.com" target="blank"><img align="center"   src="https://sliceoflinux.files.wordpress.com/2009/07/gamil_01_png.png?w=166&h=166" alt="gmail" height="50" width="50" /></a> 
+  <a href="linkedin.com/in/edgar-jhon-curi-araujo-a1908159" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+  <a href="https://twitter.com/JhonCuri2" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+  <a href="https://www.instagram.com/jhoncuria" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+  <a href="https://discord.gg/UjwKkJsXsf" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
 </p>
 
-![mail_gmail_22737](https://github.com/jhoncuria/jhoncuria/assets/106255552/285865d0-20cf-4e4b-8387-366129cd35c5)
+---
 
 <div align="center">
   :heart_eyes: Thanks for visiting my profile! Have a nice day! :wink: <br/>
   &copy; 2023 Jhon Curi
 </div>
 Last Edited on: 26/05/2023
-
-
-
 
 
 
