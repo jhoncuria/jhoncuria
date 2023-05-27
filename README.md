@@ -97,19 +97,24 @@
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
 
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
 <p align="center">
-  <a href="mailto:ejcuri@gmail.com">
-    <img align="center" alt="ejcuri@gmail.com | Gmail" width="26px" src="https://raw.githubusercontent.com/jhoncuria/jhoncuria/main/assets/Gmail.svg" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://www.linkedin.com/in/edgar-jhon-curi-araujo-a1908159" target="_blank">
-    <img align="center" alt="edgar-jhon-curi-araujo-a1908159 | LinkedIn" width="24px" src="https://raw.githubusercontent.com/jhoncuria/jhoncuria/main/assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://github.com/jhoncuria" target="_blank">
-    <img align="center" alt="jhoncuria | GitHub" width="26px" src="https://raw.githubusercontent.com/jhoncuria/jhoncuria/main/assets/github.png" />
-  </a> &nbsp;&nbsp;
+<a href="mailto:ejcuri@gmail.com" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="gmail" height="50" width="50" /></a>
+<a href="linkedin.com/in/edgar-jhon-curi-araujo-a1908159" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://twitter.com/JhonCuri2" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+<a href="https://www.instagram.com/jhoncuria" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://discord.gg/UjwKkJsXsf" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
 </p>
+
+
 
 
 <div align="center">
