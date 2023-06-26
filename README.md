@@ -26,7 +26,7 @@
 
 - ![download](https://github.com/jhoncuria/jhoncuria/assets/106255552/e4f9aeb2-f100-4402-b722-fa4fd8a39afb) Background: Tengo una sólida formación en ingeniería química, con experiencia en el sector minero (seguridad, medio ambiente, planta concentradora, laboratorio de análisis de minerales). 🚀⛏️🌿
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Skills and some languages and tools
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Skills
 
 - 🔹 Programming Languages: Python, SQL
 - 🔹 Data Science Libraries: Pandas, NumPy, scikit-learn
@@ -73,8 +73,8 @@
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> Para obtener más información, por favor contáctame a través de...
 
 <p align="center">
-  <a href="emailto:ejcuri@gmail.com" target="blank"><img align="center"   src="https://sliceoflinux.files.wordpress.com/2009/07/gamil_01_png.png?w=166&h=166" alt="gmail" height="50" width="50" /></a> 
-  <a href="linkedin.com/in/https://www.linkedin.com/in/edgar-jhon-curi-araujo-a1908159/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+  <a href="ejcuri@gmail.com" target="blank"><img align="center"   src="https://sliceoflinux.files.wordpress.com/2009/07/gamil_01_png.png?w=166&h=166" alt="gmail" height="50" width="50" /></a> 
+  <a href="www.linkedin.com/in/edgar-jhon-curi-araujo-a1908159/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
   <a href="https://twitter.com/JhonCuri2" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
   <a href="https://www.instagram.com/jhoncuria" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
   <a href="https://discord.gg/UjwKkJsXsf" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
