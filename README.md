@@ -73,7 +73,7 @@
   <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" height="25">
 </p>
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For more information, please check out or connect me via...
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> Para obtener más información, por favor contáctame a través de...
 
 <p align="center">
   <a href="emailto:ejcuri@gmail.com" target="blank"><img align="center"   src="https://sliceoflinux.files.wordpress.com/2009/07/gamil_01_png.png?w=166&h=166" alt="gmail" height="50" width="50" /></a> 
