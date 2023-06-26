@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+Soy+Jhon+Curi+🧪;💻📈+Data+Scientis!!!;Bienvenido+a+mi+perfirl!!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+Soy+Jhon+Curi+🧪;💻📈+Data+Scientis!!!;Bienvenido+a+mi+perfil!!" alt="Title"></img>
 </div>
 
 [![jcuri4.png](https://i.postimg.cc/Twwyfm5y/jcuri4.png)](https://postimg.cc/SXBQGnrq)
@@ -37,7 +37,6 @@
 - 🔹 Version Control: Git, GitHub
 - 🔹 Statistical Analysis: Hypothesis Testing, ANOVA, Regression Analysis
 - 🔹 Data Wrangling: Data Cleaning, Data Transformation, Feature Engineering
-- 🔹 Web Development: HTML, CSS
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25">
